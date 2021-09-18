@@ -1,2 +1,4 @@
-# dso-560-nlp-text-analytics
-Course repository for DSO560
+# DSO 560 NLP & Text Analytics
+
+## Week 1 (October 22nd)
+
