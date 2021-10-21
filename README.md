@@ -5,6 +5,13 @@ We will be using Slack workspaces for most of our course communications, includi
 
 ## Week 1 (October 21st)
 
+### Notebooks
+
+- [Additional Practice (Week 1)](https://colab.research.google.com/drive/188c831NLwIJDxOq9gNrr8cetRGeLvyR_?usp=sharing)
+- [Regex Exercises](https://colab.research.google.com/drive/1HlAVLTZ0S9qbOlp9NuSarBQpbCe9--hx?usp=sharing)
+- [Basic Python Operations for Working with Text](https://colab.research.google.com/drive/18ZnVWNOEezUTB8ax7YF2P2xgyvtUUkf3?usp=sharing)
+- [Text Preprocessing Techniques](https://colab.research.google.com/drive/16Ojv3l7tY9E3zWfZUxe-FSq7UEs5hfuS?usp=sharing)
+
 ### Before Class
 * Make sure you have the following items installed on your computer:
 1. Python 3.*
