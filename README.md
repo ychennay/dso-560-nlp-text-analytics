@@ -11,6 +11,7 @@ We will be using Slack workspaces for most of our course communications, includi
 ## Week 2 (October 28th)
 
 ### Notebooks
+- [Cosine Similarity, PMI, Collocation and TF-IDF](https://colab.research.google.com/drive/1DiVzTkmcvwF0b5Hn_L-YZSkQj-t_hDVU?usp=sharing)
 - [Additional Practice with Information Retrieval and Scoring Metrics](https://colab.research.google.com/drive/1Ls90FpBt4UA3epTJJPuvnVgEAyBrJrPt#scrollTo=t7QRI4ZnkdXq)
 - [HW2 Vectorization, Regex, Similarity](https://colab.research.google.com/drive/1-PXGdEDlXCwi9BQ0jmZfJOBQ618zGS8K?usp=sharing)
 - [Additional Practice with MoMa Dataset](https://colab.research.google.com/drive/1ShrXvEhjYX2UpcWfHZttjwvfkg9sICJM?usp=sharing)
