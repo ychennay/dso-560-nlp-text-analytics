@@ -3,6 +3,17 @@
 ## Slack Workspace
 We will be using Slack workspaces for most of our course communications, including submitting classwork, homework, and grading. Your final grades will be posted on Blackboard, but feedback for assignments will be delivered via Slack. Prior to Week 1's session, please join the Slack workspace. Note that this is a different Slack workspace than the auto-created workspaces by USC Marshall.
 
+## Lecture Recordings
+
+* [Week 1](https://usc.zoom.us/rec/play/i9q72Uol1BqbQw2iyhd9I7C0tSX3KPjWB677-bwhc5i3-bqvp_9xf6YqXg3Mg5eGSW_BUeDEsZewOW2B.9yPxFWnos7QijTmJ)
+
+
+## Week 2 (October 28th)
+
+### Notebooks
+
+- [Spark Word Count and Regex Examples](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5232729486082968/1540886924384845/4388619205012290/latest.html)
+
 ## Week 1 (October 21st)
 
 ### Notebooks
