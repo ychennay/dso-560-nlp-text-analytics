@@ -11,8 +11,12 @@ We will be using Slack workspaces for most of our course communications, includi
 ## Week 2 (October 28th)
 
 ### Notebooks
-
+- [Additional Practice with Information Retrieval and Scoring Metrics](https://colab.research.google.com/drive/1Ls90FpBt4UA3epTJJPuvnVgEAyBrJrPt#scrollTo=t7QRI4ZnkdXq)
+- [HW2 Vectorization, Regex, Similarity](https://colab.research.google.com/drive/1-PXGdEDlXCwi9BQ0jmZfJOBQ618zGS8K?usp=sharing)
+- [Additional Practice with MoMa Dataset](https://colab.research.google.com/drive/1ShrXvEhjYX2UpcWfHZttjwvfkg9sICJM?usp=sharing)
+- [Linear Algebra, Distance and Similarity](https://colab.research.google.com/drive/1CrwxdViIf2RFK0hu7rfALviGcAnFsiaZ?usp=sharing)
 - [Spark Word Count and Regex Examples](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5232729486082968/1540886924384845/4388619205012290/latest.html)
+- [Regex Practice Part II](https://colab.research.google.com/drive/1TqZjdnwHfSYq5UWA5WPBytdqqw-RdlJd?usp=sharing)
 
 ## Week 1 (October 21st)
 
