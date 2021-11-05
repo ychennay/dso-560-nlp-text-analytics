@@ -6,7 +6,18 @@ We will be using Slack workspaces for most of our course communications, includi
 ## Lecture Recordings
 
 * [Week 1](https://usc.zoom.us/rec/play/i9q72Uol1BqbQw2iyhd9I7C0tSX3KPjWB677-bwhc5i3-bqvp_9xf6YqXg3Mg5eGSW_BUeDEsZewOW2B.9yPxFWnos7QijTmJ)
+* [Week 2](https://usc.zoom.us/rec/play/TMQshGcQb6r2YGcsqcOG8-DqEWnGrMLrfEZtCLt4E3eooyFQGchfM9g68qX70MUm10biLeJQA6m5s6ob.8MhTgxKQ15nY4qk6)
 
+## Week 3 (November 4th)
+
+### Notebooks
+
+- [Naive Bayes](https://colab.research.google.com/drive/1J2XfQEafCLQKO4AVVHeqCVg4nyC74E86?usp=sharing)
+- [Tips and Tricks](https://colab.research.google.com/drive/1JEj3tF69_B0XSYNyt9Oei4DSxPqVcaad?usp=sharing)
+- [Probabilities and N-Gram Language Models](https://colab.research.google.com/drive/11GHEFTywu_uFWFjtecf-mC5PeeXHcEVM?usp=sharing)
+- [word2vec Part I](https://colab.research.google.com/drive/1CIAe8e36GTvjw_mytI1_mlFJPqQZU8qB?usp=sharing)
+- [Regex Practice II](https://colab.research.google.com/drive/1ejE3FQQ3A98SQGGJWJN6U8JfbNqMBuYm?usp=sharing)
+- [Classification](https://colab.research.google.com/drive/1KKJ2kFGXNYiqa8MDtTsLDTJ6cKXCdlJN?usp=sharing)
 
 ## Week 2 (October 28th)
 
