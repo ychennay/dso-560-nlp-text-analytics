@@ -66,3 +66,10 @@ Feel free to look for examples from prior years. In general, there is a lot of o
 
 * [Introduction](https://f.io/WpAXjcQj)
 * [Introduction and Python Examples](https://f.io/ehyqpes9)
+* [Capture Groups](https://f.io/YCoQRKoi)
+* [re.sub](https://f.io/EAloT4hC)
+* [Lazy/Greedy Quantifiers](https://f.io/CQAVnXDe)
+* [Named Capture Groups and Backreferences](https://f.io/8K2wy10p)
+* [Backreferences](https://f.io/tB2ChCKW)
+* [Regex IP Address Matching](https://f.io/K2xh2t8p)
+* [Regex IP Address Matching Python Code](https://f.io/gQY7XovS)
