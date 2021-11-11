@@ -12,7 +12,7 @@ We will be using Slack workspaces for most of our course communications, includi
 ## Week 3 (November 4th)
 
 ### Notebooks
-
+- [Example of Finding Most Similar Documents](https://colab.research.google.com/drive/1fG1T6gMWlL-AQT7bI6TJpLIAHO1G2ESa?usp=sharing)
 - [Naive Bayes](https://colab.research.google.com/drive/1J2XfQEafCLQKO4AVVHeqCVg4nyC74E86?usp=sharing)
 - [Tips and Tricks](https://colab.research.google.com/drive/1JEj3tF69_B0XSYNyt9Oei4DSxPqVcaad?usp=sharing)
 - [Probabilities and N-Gram Language Models](https://colab.research.google.com/drive/11GHEFTywu_uFWFjtecf-mC5PeeXHcEVM?usp=sharing)
