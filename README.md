@@ -9,6 +9,9 @@ We will be using Slack workspaces for most of our course communications, includi
 * [Week 2](https://usc.zoom.us/rec/play/TMQshGcQb6r2YGcsqcOG8-DqEWnGrMLrfEZtCLt4E3eooyFQGchfM9g68qX70MUm10biLeJQA6m5s6ob.8MhTgxKQ15nY4qk6)
 * [Week 3](https://usc.zoom.us/rec/share/vSqe6DlTqwzs0Ds9Wwz0KLi7iXXghkXZ65XgVMYL8aswrssbXWW-Gv73S_XIzsrD.atOxC1h988qD3fMc?startTime=1636075860000)
 
+## Week 4 (November 11th)
+- [Example of TF-IDF Weighted Word2Vec Embeddings](https://colab.research.google.com/drive/1CnN2eGvY4Somcd9gMqj6MZrJahfx-XTx?usp=sharing)
+
 ## Week 3 (November 4th)
 
 ### Notebooks
@@ -66,3 +69,10 @@ Feel free to look for examples from prior years. In general, there is a lot of o
 
 * [Introduction](https://f.io/WpAXjcQj)
 * [Introduction and Python Examples](https://f.io/ehyqpes9)
+* [Capture Groups](https://f.io/YCoQRKoi)
+* [re.sub](https://f.io/EAloT4hC)
+* [Lazy/Greedy Quantifiers](https://f.io/CQAVnXDe)
+* [Named Capture Groups and Backreferences](https://f.io/8K2wy10p)
+* [Backreferences](https://f.io/tB2ChCKW)
+* [Regex IP Address Matching](https://f.io/K2xh2t8p)
+* [Regex IP Address Matching Python Code](https://f.io/gQY7XovS)
