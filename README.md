@@ -13,6 +13,7 @@ We will be using Slack workspaces for most of our course communications, includi
 - [Example of TF-IDF Weighted Word2Vec Embeddings](https://colab.research.google.com/drive/1CnN2eGvY4Somcd9gMqj6MZrJahfx-XTx?usp=sharing)
 - [Intro to Spacy](https://colab.research.google.com/drive/1mYEIVF--kv6V2JBdNpaKGDmj0UQe0TWF?usp=sharing)
 - [HMMs and word2vec](https://colab.research.google.com/drive/1je-7O_CIuRRrbvNabcqJ_oAwKvzu1YlV?usp=sharing)
+- [Independence](https://colab.research.google.com/drive/1Pn5vA80ma5meWOH7N-KrhYYFOL956QDM?usp=sharing)
 
 ## Week 3 (November 4th)
 
