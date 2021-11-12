@@ -14,6 +14,7 @@ We will be using Slack workspaces for most of our course communications, includi
 - [Intro to Spacy](https://colab.research.google.com/drive/1mYEIVF--kv6V2JBdNpaKGDmj0UQe0TWF?usp=sharing)
 - [HMMs and word2vec](https://colab.research.google.com/drive/1je-7O_CIuRRrbvNabcqJ_oAwKvzu1YlV?usp=sharing)
 - [Independence](https://colab.research.google.com/drive/1Pn5vA80ma5meWOH7N-KrhYYFOL956QDM?usp=sharing)
+- [Dimensionality Reduction](https://colab.research.google.com/drive/1Q18c1ngdkaGAe4qnAnPJ6qv6tZR7AtSy?usp=sharing)
 
 ## Week 3 (November 4th)
 
