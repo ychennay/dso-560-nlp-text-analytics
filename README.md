@@ -10,7 +10,14 @@ We will be using Slack workspaces for most of our course communications, includi
 * [Week 3](https://usc.zoom.us/rec/share/vSqe6DlTqwzs0Ds9Wwz0KLi7iXXghkXZ65XgVMYL8aswrssbXWW-Gv73S_XIzsrD.atOxC1h988qD3fMc?startTime=1636075860000)
 * [Week 4](https://usc.zoom.us/rec/share/mqmq18bajNS_naTmocvEPNPHxbLGikx0NeFutHPIxmVa-cc1wwSGnnlDDSPsNJwK.WsYJfCSEzpt_5J-I?startTime=1636684277000)
 
+## Week 5 (November 18th)
+
+- Advanced Regex
+- word2vec Part II
+
 ## Week 4 (November 11th)
+
+### Notebooks
 - [Example of TF-IDF Weighted Word2Vec Embeddings](https://colab.research.google.com/drive/1CnN2eGvY4Somcd9gMqj6MZrJahfx-XTx?usp=sharing)
 - [Intro to Spacy](https://colab.research.google.com/drive/1mYEIVF--kv6V2JBdNpaKGDmj0UQe0TWF?usp=sharing)
 - [HMMs and word2vec](https://colab.research.google.com/drive/1je-7O_CIuRRrbvNabcqJ_oAwKvzu1YlV?usp=sharing)
