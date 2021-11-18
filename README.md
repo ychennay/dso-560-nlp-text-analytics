@@ -8,11 +8,14 @@ We will be using Slack workspaces for most of our course communications, includi
 * [Week 1](https://usc.zoom.us/rec/play/i9q72Uol1BqbQw2iyhd9I7C0tSX3KPjWB677-bwhc5i3-bqvp_9xf6YqXg3Mg5eGSW_BUeDEsZewOW2B.9yPxFWnos7QijTmJ)
 * [Week 2](https://usc.zoom.us/rec/play/TMQshGcQb6r2YGcsqcOG8-DqEWnGrMLrfEZtCLt4E3eooyFQGchfM9g68qX70MUm10biLeJQA6m5s6ob.8MhTgxKQ15nY4qk6)
 * [Week 3](https://usc.zoom.us/rec/share/vSqe6DlTqwzs0Ds9Wwz0KLi7iXXghkXZ65XgVMYL8aswrssbXWW-Gv73S_XIzsrD.atOxC1h988qD3fMc?startTime=1636075860000)
+* [Week 4](https://usc.zoom.us/rec/share/mqmq18bajNS_naTmocvEPNPHxbLGikx0NeFutHPIxmVa-cc1wwSGnnlDDSPsNJwK.WsYJfCSEzpt_5J-I?startTime=1636684277000)
 
 ## Week 4 (November 11th)
 - [Example of TF-IDF Weighted Word2Vec Embeddings](https://colab.research.google.com/drive/1CnN2eGvY4Somcd9gMqj6MZrJahfx-XTx?usp=sharing)
 - [Intro to Spacy](https://colab.research.google.com/drive/1mYEIVF--kv6V2JBdNpaKGDmj0UQe0TWF?usp=sharing)
 - [HMMs and word2vec](https://colab.research.google.com/drive/1je-7O_CIuRRrbvNabcqJ_oAwKvzu1YlV?usp=sharing)
+- [Independence](https://colab.research.google.com/drive/1Pn5vA80ma5meWOH7N-KrhYYFOL956QDM?usp=sharing)
+- [Dimensionality Reduction](https://colab.research.google.com/drive/1Q18c1ngdkaGAe4qnAnPJ6qv6tZR7AtSy?usp=sharing)
 
 ## Week 3 (November 4th)
 
