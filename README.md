@@ -16,6 +16,7 @@ We will be using Slack workspaces for most of our course communications, includi
 - [word2vec Part II](https://colab.research.google.com/drive/1_Hht2TlvDT5QFZ-XGUX1LHPJF3A0JUPO?usp=sharing)
 - [Toy Torch RNN Example](https://colab.research.google.com/drive/1sZOuotJLZ8ENkZ_EB8BZXoCmS7svnvj3?usp=sharing)
 - [Using RNNs and LSTMs](https://colab.research.google.com/drive/1G6bxy1OlHPeVo6zAs8TxvN5du9PHhZQf?usp=sharing)
+- [Deep Learning with Word Embeddings](https://colab.research.google.com/drive/1CtQr7n6zp_mDJYpXNRSc3Fqg1JGqN194?usp=sharing)
 
 ## Week 4 (November 11th)
 
