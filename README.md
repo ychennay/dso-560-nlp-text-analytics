@@ -9,6 +9,7 @@ We will be using Slack workspaces for most of our course communications, includi
 * [Week 2](https://usc.zoom.us/rec/play/TMQshGcQb6r2YGcsqcOG8-DqEWnGrMLrfEZtCLt4E3eooyFQGchfM9g68qX70MUm10biLeJQA6m5s6ob.8MhTgxKQ15nY4qk6)
 * [Week 3](https://usc.zoom.us/rec/share/vSqe6DlTqwzs0Ds9Wwz0KLi7iXXghkXZ65XgVMYL8aswrssbXWW-Gv73S_XIzsrD.atOxC1h988qD3fMc?startTime=1636075860000)
 * [Week 4](https://usc.zoom.us/rec/share/mqmq18bajNS_naTmocvEPNPHxbLGikx0NeFutHPIxmVa-cc1wwSGnnlDDSPsNJwK.WsYJfCSEzpt_5J-I?startTime=1636684277000)
+* [Week 5](https://usc.zoom.us/rec/share/EjWVPf9SSR3hJ4vHPZ8emZfVJe5Mdq0wAhj0WP4s2zWMLVX-TEuOY8x5pp2jE_GG.m54LnZjuMmGNY4z2?startTime=1637289063000)
 
 ## Week 5 (November 18th)
 
