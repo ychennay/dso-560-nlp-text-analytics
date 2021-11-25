@@ -11,6 +11,10 @@ We will be using Slack workspaces for most of our course communications, includi
 * [Week 4](https://usc.zoom.us/rec/share/mqmq18bajNS_naTmocvEPNPHxbLGikx0NeFutHPIxmVa-cc1wwSGnnlDDSPsNJwK.WsYJfCSEzpt_5J-I?startTime=1636684277000)
 * [Week 5](https://usc.zoom.us/rec/share/EjWVPf9SSR3hJ4vHPZ8emZfVJe5Mdq0wAhj0WP4s2zWMLVX-TEuOY8x5pp2jE_GG.m54LnZjuMmGNY4z2?startTime=1637289063000)
 
+### Async Lectures
+
+* [Training Your Own Word Embeddings Using Keras](https://youtu.be/Wp-Wb456kSU)
+
 ## Week 5 (November 18th)
 
 - [Advanced Regex](https://colab.research.google.com/drive/1KWmT7L9UZZ3GkJWQEDp1r9moT1aF8r8M?usp=sharing)
