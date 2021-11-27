@@ -14,6 +14,7 @@ We will be using Slack workspaces for most of our course communications, includi
 ### Async Lectures
 
 * [Training Your Own Word Embeddings Using Keras](https://youtu.be/Wp-Wb456kSU)
+* [RNNs and LSTMs Deep Dive](https://youtu.be/Bt9zoPMzZZQ)
 
 ## Week 5 (November 18th)
 
