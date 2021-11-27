@@ -9,11 +9,20 @@ We will be using Slack workspaces for most of our course communications, includi
 * [Week 2](https://usc.zoom.us/rec/play/TMQshGcQb6r2YGcsqcOG8-DqEWnGrMLrfEZtCLt4E3eooyFQGchfM9g68qX70MUm10biLeJQA6m5s6ob.8MhTgxKQ15nY4qk6)
 * [Week 3](https://usc.zoom.us/rec/share/vSqe6DlTqwzs0Ds9Wwz0KLi7iXXghkXZ65XgVMYL8aswrssbXWW-Gv73S_XIzsrD.atOxC1h988qD3fMc?startTime=1636075860000)
 * [Week 4](https://usc.zoom.us/rec/share/mqmq18bajNS_naTmocvEPNPHxbLGikx0NeFutHPIxmVa-cc1wwSGnnlDDSPsNJwK.WsYJfCSEzpt_5J-I?startTime=1636684277000)
+* [Week 5](https://usc.zoom.us/rec/share/EjWVPf9SSR3hJ4vHPZ8emZfVJe5Mdq0wAhj0WP4s2zWMLVX-TEuOY8x5pp2jE_GG.m54LnZjuMmGNY4z2?startTime=1637289063000)
+
+### Async Lectures
+
+* [Training Your Own Word Embeddings Using Keras](https://youtu.be/Wp-Wb456kSU)
+* [RNNs and LSTMs Deep Dive](https://youtu.be/Bt9zoPMzZZQ)
 
 ## Week 5 (November 18th)
 
-- Advanced Regex
-- word2vec Part II
+- [Advanced Regex](https://colab.research.google.com/drive/1KWmT7L9UZZ3GkJWQEDp1r9moT1aF8r8M?usp=sharing)
+- [word2vec Part II](https://colab.research.google.com/drive/1_Hht2TlvDT5QFZ-XGUX1LHPJF3A0JUPO?usp=sharing)
+- [Toy Torch RNN Example](https://colab.research.google.com/drive/1sZOuotJLZ8ENkZ_EB8BZXoCmS7svnvj3?usp=sharing)
+- [Using RNNs and LSTMs](https://colab.research.google.com/drive/1G6bxy1OlHPeVo6zAs8TxvN5du9PHhZQf?usp=sharing)
+- [Deep Learning with Word Embeddings](https://colab.research.google.com/drive/1CtQr7n6zp_mDJYpXNRSc3Fqg1JGqN194?usp=sharing)
 
 ## Week 4 (November 11th)
 
