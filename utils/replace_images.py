@@ -12,6 +12,7 @@ def replace_line(line: str)-> str:
 	if match:
 		image_name = match.group(1)
 		full_path = match.group()
+		
 		new_path = GITHUB_IMAGE_PREFIX + image_name
 		return line.replace(full_path, new_path)
 	return line
