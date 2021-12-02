@@ -16,6 +16,11 @@ We will be using Slack workspaces for most of our course communications, includi
 * [Training Your Own Word Embeddings Using Keras](https://youtu.be/Wp-Wb456kSU)
 * [RNNs and LSTMs Deep Dive](https://youtu.be/Bt9zoPMzZZQ)
 
+## Week 6 (December 2nd)
+- [Huggingface Demo](https://colab.research.google.com/drive/1kP0VUyBipYV4WXE4JeDGxlU9uZRl9EjY)
+- [Topic Modelling](https://colab.research.google.com/drive/1tnH3a_DtbpMlXUr_X09ezOL2c4ekoNfx?usp=sharing)
+- [BERT Guest Lecture](https://docs.google.com/presentation/d/1CTYSvuGGCElHVcpA9hvGlPgOT6p1XHeRyy71UaJkUnM/edit#slide=id.g104fc23bf1f_0_30)
+
 ## Week 5 (November 18th)
 
 - [Advanced Regex](https://colab.research.google.com/drive/1KWmT7L9UZZ3GkJWQEDp1r9moT1aF8r8M?usp=sharing)
