@@ -25,6 +25,7 @@ We will be using Slack workspaces for most of our course communications, includi
 - [Example of Attention-Based Image Classification Faces](https://github.com/ychennay/attention-facial-recognition/blob/master/Vanilla%20Self%20Attention.ipynb)
 - [Transformers for Natural Language Processing Github](https://github.com/PacktPublishing/Transformers-for-Natural-Language-Processing) - this is an excellent resource for code snippets that you can leverage in your own experiments and learnings
 - [Basic Self Attention Walkthrough (from Rothman book)](https://colab.research.google.com/drive/1VKcVEULBPYQ42uwMCcNzczmsGXoSGZt1?usp=sharing)
+- [Understanding Positional Encodings](https://colab.research.google.com/drive/1P1-SDViNp3NFVQ9Z6NtDIrSjBH7pVCTP?usp=sharing)
 
 ## Week 5 (November 18th)
 
