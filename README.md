@@ -22,6 +22,7 @@ We will be using Slack workspaces for most of our course communications, includi
 - [BERT Guest Lecture](https://docs.google.com/presentation/d/1CTYSvuGGCElHVcpA9hvGlPgOT6p1XHeRyy71UaJkUnM/edit#slide=id.g104fc23bf1f_0_30)
 - [Example of Attention-Based Image Classification MNIST Handwritten Digits](https://github.com/ychennay/attention-facial-recognition/blob/master/MNIST%20Class%20Activation%20Heatmap%20Example.ipynb)
 - [Example of Attention-Based Image Classification Faces](https://github.com/ychennay/attention-facial-recognition/blob/master/Vanilla%20Self%20Attention.ipynb)
+- [Transformers for Natural Language Processing Github](https://github.com/PacktPublishing/Transformers-for-Natural-Language-Processing) - this is an excellent resource for code snippets that you can leverage in your own experiments and learnings
 
 ## Week 5 (November 18th)
 
