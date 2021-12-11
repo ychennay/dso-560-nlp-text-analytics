@@ -17,6 +17,11 @@ We will be using Slack workspaces for most of our course communications, includi
 * [Training Your Own Word Embeddings Using Keras](https://youtu.be/Wp-Wb456kSU)
 * [RNNs and LSTMs Deep Dive](https://youtu.be/Bt9zoPMzZZQ)
 
+## Final Exam (December 9th)
+- [Final Exam](https://github.com/ychennay/dso-560-nlp-text-analytics/blob/main/final_exam/2021_DSO560_final_exam.pdf)
+- [Naive Bayes, Vectorization, Similarity, and Language Model Answer Key](https://github.com/ychennay/dso-560-nlp-text-analytics/blob/main/final_exam/Fall%202021%20Final%20Exam%20Answers.xlsx)
+- [Short Answer and True/False Answer Key](https://colab.research.google.com/drive/1BCS3rFRYLRD4iTZTf8J6NbN4pxncnfZ9?usp=sharing)
+
 ## Week 6 (December 2nd)
 - [LSTMs and Self-Attention for NLP](https://colab.research.google.com/drive/1YJ7nFGIyjuyUaUHcTs6HrMXr2QzUXiDc?usp=sharing)
 - [Huggingface Demo](https://colab.research.google.com/drive/1kP0VUyBipYV4WXE4JeDGxlU9uZRl9EjY)
