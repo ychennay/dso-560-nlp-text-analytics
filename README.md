@@ -5,7 +5,7 @@ We will be using Slack workspaces for most of our course communications, includi
 Note that this is a different Slack workspace than the auto-created workspaces by USC Marshall.
 
 ## Lecture Recordings
-
+* [Week 1 Part I](https://usc.zoom.us/rec/share/yTsORhwrZypUVzg5CICGRJKvDOy0sfDiAWaxCvVBjaywh1tHjFTzVBxHxVSFOgi3.sOwkNasb5G0Ci3YD?startTime=1666315958000), [Week 1 Part II](https://usc.zoom.us/rec/share/yTsORhwrZypUVzg5CICGRJKvDOy0sfDiAWaxCvVBjaywh1tHjFTzVBxHxVSFOgi3.sOwkNasb5G0Ci3YD?startTime=1666324360000)
 ### Async Lectures
 
 * [Training Your Own Word Embeddings Using Keras](https://youtu.be/Wp-Wb456kSU)
