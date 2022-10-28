@@ -11,6 +11,12 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 * [Training Your Own Word Embeddings Using Keras](https://youtu.be/Wp-Wb456kSU)
 * [RNNs and LSTMs Deep Dive](https://youtu.be/Bt9zoPMzZZQ)
 
+## Week 2 (Thursday, October 27th)
+### Notebooks
+- [Homework 1](https://colab.research.google.com/drive/1ZM6EjZdn9z89rzAoue1EYFkN5VkEFNh7?usp=sharing)
+- [Classification and Model Evaluation](https://colab.research.google.com/drive/10DnvTA4NvRc1zdYEqZ78Oqv23GqG8BaV?usp=sharing)
+- [Term Frequency Inverse Document Frequency](https://colab.research.google.com/drive/1LleH5ZBh9E3kXWAc7a26dYrMGfVz3qXa?usp=sharing)
+
 ## Week 1 (Thursday, October 20th)
 ### Notebooks
 - [Additional Practice (Week 1)](https://colab.research.google.com/drive/188c831NLwIJDxOq9gNrr8cetRGeLvyR_?usp=sharing)
