@@ -5,6 +5,7 @@ We will be using Slack workspaces for most of our course communications, includi
 Note that this is a different Slack workspace than the auto-created workspaces by USC Marshall.
 
 ## Lecture Recordings
+* [Week 2 Part I](https://usc.zoom.us/rec/share/Mj2aTkwUulaE3YKFky3BV01Lnys_5oaWcBxmIXtRSeK4x0vHL8sR312f-H88YEw.BuDBF--SJjX9qhL6?startTime=1666920613000), [Week 2 Part II](https://usc.zoom.us/rec/share/Mj2aTkwUulaE3YKFky3BV01Lnys_5oaWcBxmIXtRSeK4x0vHL8sR312f-H88YEw.BuDBF--SJjX9qhL6?startTime=1666929430000)
 * [Week 1 Part I](https://usc.zoom.us/rec/share/yTsORhwrZypUVzg5CICGRJKvDOy0sfDiAWaxCvVBjaywh1tHjFTzVBxHxVSFOgi3.sOwkNasb5G0Ci3YD?startTime=1666315958000), [Week 1 Part II](https://usc.zoom.us/rec/share/yTsORhwrZypUVzg5CICGRJKvDOy0sfDiAWaxCvVBjaywh1tHjFTzVBxHxVSFOgi3.sOwkNasb5G0Ci3YD?startTime=1666324360000)
 ### Async Lectures
 
