@@ -12,6 +12,15 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 * [Training Your Own Word Embeddings Using Keras](https://youtu.be/Wp-Wb456kSU)
 * [RNNs and LSTMs Deep Dive](https://youtu.be/Bt9zoPMzZZQ)
 
+## Week 3 (Thursday, November 3rd)
+### Notebooks
+- [Cosine Similarity, PMI, Collocation](https://colab.research.google.com/drive/1lII4A-7k5ldeM-kxJKCXSjQm--VmOry-?usp=sharing)
+- [Probabilities and N-Gram Language Models](https://colab.research.google.com/drive/1j_HwFNjYlkZJeNQosBZYocm7SQaV295k#scrollTo=aWHUN2m1KShX)
+- [Using Textacy for Text Preprocessing](https://colab.research.google.com/drive/11CcA0IPWKrRRGUwhqADo2tSW5uk0CAwN?usp=sharing)
+- [Naive Bayes](https://colab.research.google.com/drive/1J2XfQEafCLQKO4AVVHeqCVg4nyC74E86?usp=sharing)
+- [Tips and Tricks](https://colab.research.google.com/drive/1JEj3tF69_B0XSYNyt9Oei4DSxPqVcaad?usp=sharing)
+
+
 ## Week 2 (Thursday, October 27th)
 ### Notebooks
 - [Homework 1](https://colab.research.google.com/drive/1ZM6EjZdn9z89rzAoue1EYFkN5VkEFNh7?usp=sharing)
