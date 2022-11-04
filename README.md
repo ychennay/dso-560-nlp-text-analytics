@@ -5,6 +5,8 @@ We will be using Slack workspaces for most of our course communications, includi
 Note that this is a different Slack workspace than the auto-created workspaces by USC Marshall.
 
 ## Lecture Recordings
+* [Week 3 Part I](https://usc.zoom.us/rec/share/u0NN7xtZXHa8-paLNa-B_hZhcxsN8GZ-yd5kVWo_JQKbm_xebqneWzsm1ahHzdoB.zCR8e33-SEM1YoOq?startTime=1667525429000)
+* [Week 3 Part II](https://usc.zoom.us/rec/share/u0NN7xtZXHa8-paLNa-B_hZhcxsN8GZ-yd5kVWo_JQKbm_xebqneWzsm1ahHzdoB.zCR8e33-SEM1YoOq?startTime=1667534474000)
 * [Week 2 Part I](https://usc.zoom.us/rec/share/Mj2aTkwUulaE3YKFky3BV01Lnys_5oaWcBxmIXtRSeK4x0vHL8sR312f-H88YEw.BuDBF--SJjX9qhL6?startTime=1666920613000), [Week 2 Part II](https://usc.zoom.us/rec/share/Mj2aTkwUulaE3YKFky3BV01Lnys_5oaWcBxmIXtRSeK4x0vHL8sR312f-H88YEw.BuDBF--SJjX9qhL6?startTime=1666929430000)
 * [Week 1 Part I](https://usc.zoom.us/rec/share/yTsORhwrZypUVzg5CICGRJKvDOy0sfDiAWaxCvVBjaywh1tHjFTzVBxHxVSFOgi3.sOwkNasb5G0Ci3YD?startTime=1666315958000), [Week 1 Part II](https://usc.zoom.us/rec/share/yTsORhwrZypUVzg5CICGRJKvDOy0sfDiAWaxCvVBjaywh1tHjFTzVBxHxVSFOgi3.sOwkNasb5G0Ci3YD?startTime=1666324360000)
 ### Async Lectures
@@ -19,6 +21,7 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 - [Using Textacy for Text Preprocessing](https://colab.research.google.com/drive/11CcA0IPWKrRRGUwhqADo2tSW5uk0CAwN?usp=sharing)
 - [Naive Bayes](https://colab.research.google.com/drive/1J2XfQEafCLQKO4AVVHeqCVg4nyC74E86?usp=sharing)
 - [Tips and Tricks](https://colab.research.google.com/drive/1JEj3tF69_B0XSYNyt9Oei4DSxPqVcaad?usp=sharing)
+- [In-Class Examples Google Sheet](https://docs.google.com/spreadsheets/d/1H0hRGyTIBzr-n6A0RSSuvUZ2EFgYoVTa1V12yIjIzCk/edit?usp=sharing)
 
 
 ## Week 2 (Thursday, October 27th)
