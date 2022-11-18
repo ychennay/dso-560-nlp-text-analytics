@@ -14,6 +14,14 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 * [Training Your Own Word Embeddings Using Keras](https://youtu.be/Wp-Wb456kSU)
 * [RNNs and LSTMs Deep Dive](https://youtu.be/Bt9zoPMzZZQ)
 
+## Week 5 (Thursday, November 17th)
+### Notebooks
+- [In-Class Examples Google Sheet](https://docs.google.com/spreadsheets/d/1H0hRGyTIBzr-n6A0RSSuvUZ2EFgYoVTa1V12yIjIzCk/edit?usp=sharing)
+- [Probabilities and N-Gram Language Models](https://colab.research.google.com/drive/1j_HwFNjYlkZJeNQosBZYocm7SQaV295k#scrollTo=aWHUN2m1KShX)
+- [word2vec Part I](https://colab.research.google.com/drive/1KEhGi7yVGYhIIS2UQ6GLDjSMOTZZWjcf?usp=sharing)
+- [word2vec Part II](https://colab.research.google.com/drive/1G4953SyzdwfXR19kZcsjwTy1efEvOrGb?usp=sharing)
+- [Deep Learning to Train Word Embeddings](https://colab.research.google.com/drive/18QPwKMJgulU0wpSKWmUJy9zsJfKRNe0I?usp=sharing)
+
 ## Week 4 (Thursday, November 10th)
 ### Notebooks
 - [Cosine Similarity, PMI, Collocation](https://colab.research.google.com/drive/1lII4A-7k5ldeM-kxJKCXSjQm--VmOry-?usp=sharing)
