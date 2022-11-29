@@ -31,6 +31,8 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 - [Using Textacy for Text Preprocessing](https://colab.research.google.com/drive/11CcA0IPWKrRRGUwhqADo2tSW5uk0CAwN?usp=sharing)
 - [Tips and Tricks](https://colab.research.google.com/drive/1JEj3tF69_B0XSYNyt9Oei4DSxPqVcaad?usp=sharing)
 - [In-Class Examples Google Sheet](https://docs.google.com/spreadsheets/d/1H0hRGyTIBzr-n6A0RSSuvUZ2EFgYoVTa1V12yIjIzCk/edit?usp=sharing)
+- [Topic Modelling with Unigrams](https://colab.research.google.com/drive/1mTl6HTTwJmrbqdfkwpHRzifO_vkv6m4I?usp=sharing)
+- [Topic Modelling](https://colab.research.google.com/drive/1tnH3a_DtbpMlXUr_X09ezOL2c4ekoNfx?usp=sharing)
 
 ## Week 3 (Thursday, November 3rd)
 ### Notebooks
