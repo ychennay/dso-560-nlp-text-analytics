@@ -25,14 +25,13 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 - [Deep Learning to Train Word Embeddings](https://colab.research.google.com/drive/18QPwKMJgulU0wpSKWmUJy9zsJfKRNe0I?usp=sharing)
 - [LSTMs and Self-Attention for NLP](https://colab.research.google.com/drive/1YJ7nFGIyjuyUaUHcTs6HrMXr2QzUXiDc?usp=sharing)
 - [Huggingface Demo](https://colab.research.google.com/drive/1kP0VUyBipYV4WXE4JeDGxlU9uZRl9EjY)
-- [Topic Modelling](https://colab.research.google.com/drive/1tnH3a_DtbpMlXUr_X09ezOL2c4ekoNfx?usp=sharing)
 - [BERT](https://docs.google.com/presentation/d/1CTYSvuGGCElHVcpA9hvGlPgOT6p1XHeRyy71UaJkUnM/edit#slide=id.g104fc23bf1f_0_30)
 - [Example of Attention-Based Image Classification MNIST Handwritten Digits](https://github.com/ychennay/attention-facial-recognition/blob/master/MNIST%20Class%20Activation%20Heatmap%20Example.ipynb)
 - [Example of Attention-Based Image Classification Faces](https://github.com/ychennay/attention-facial-recognition/blob/master/Vanilla%20Self%20Attention.ipynb)
 - [Transformers for Natural Language Processing Github](https://github.com/PacktPublishing/Transformers-for-Natural-Language-Processing) - this is an excellent resource for code snippets that you can leverage in your own experiments and learnings
 - [Basic Self Attention Walkthrough (from Rothman book)](https://colab.research.google.com/drive/1VKcVEULBPYQ42uwMCcNzczmsGXoSGZt1?usp=sharing)
 - [Understanding Positional Encodings](https://colab.research.google.com/drive/1P1-SDViNp3NFVQ9Z6NtDIrSjBH7pVCTP?usp=sharing)
-- [Fine-Tuning Hugging Face Model](https://colab.research.google.com/drive/1IZ1StimGzh1saoV3Xt9wldPE8lX-bbtX?usp=sharing)
+- [Fine-Tuning Hugging Face Model](https://colab.research.google.com/drive/1IZ1StimGzh1saoV3Xt9wldPE8lX-bbtX?usp=sharing)   
 
 ## Week 5 (Thursday, November 17th)
 ### Notebooks
