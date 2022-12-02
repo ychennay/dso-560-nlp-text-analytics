@@ -5,6 +5,7 @@ We will be using Slack workspaces for most of our course communications, includi
 Note that this is a different Slack workspace than the auto-created workspaces by USC Marshall.
 
 ## Lecture Recordings
+* [Week 6 Part I](https://usc.zoom.us/rec/share/iyZqWpRPYoFkFbOlul5TrMz1RpJPdOEcMfdAFbuM4AHy-jFjF3E3HeHX4VvgmufF.6LPu5xOkLc_8_pnG?startTime=1669948214000), [Week 6 Part II](https://usc.zoom.us/rec/share/iyZqWpRPYoFkFbOlul5TrMz1RpJPdOEcMfdAFbuM4AHy-jFjF3E3HeHX4VvgmufF.6LPu5xOkLc_8_pnG?startTime=1669958446000)
 * [Week 5 Part I](https://usc.zoom.us/rec/share/Sy7dm16dj5OgTGiuxGa6DowpjnpGXUd1d7Q1CXuuZbjUvwfVJifBgilYPxEAiTWk.Kv8m9ubYQr8bDYgl?startTime=1668738718000),
 [Week 5 Part II](https://usc.zoom.us/rec/share/VW940Okdpal0Yzyyz5WQSIEuk8cPIbOwPHrDpjOlG60roeZKCrgjHRfXOcfxdBuf.-1jBeVlyb42cMQ-5?startTime=1668747330000)
 * [Week 4 Part I](https://usc.zoom.us/rec/share/CGXAyra8UwfyzxypETiqUjDXAX8SgMElCuGbuFsVQlhFlfo5Pd946k6an9_UtXQm.pUslvTLUGHJOz3Nk?startTime=1668133872000), [Week 4 Part II](https://usc.zoom.us/rec/share/CGXAyra8UwfyzxypETiqUjDXAX8SgMElCuGbuFsVQlhFlfo5Pd946k6an9_UtXQm.pUslvTLUGHJOz3Nk?startTime=1668144420000)
