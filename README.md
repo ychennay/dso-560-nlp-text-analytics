@@ -25,7 +25,7 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 - [Databricks Spark Simple Word Count Example](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5232729486082968/1540886924384845/4388619205012290/latest.html)
 - [Deep Learning to Train Word Embeddings](https://colab.research.google.com/drive/18QPwKMJgulU0wpSKWmUJy9zsJfKRNe0I?usp=sharing)
 - [LSTMs and Self-Attention for NLP](https://colab.research.google.com/drive/1YJ7nFGIyjuyUaUHcTs6HrMXr2QzUXiDc?usp=sharing)
-- [Fine-Tuning Hugging Face Model](https://colab.research.google.com/drive/1IZ1StimGzh1saoV3Xt9wldPE8lX-bbtX?usp=sharing)
+- [Fine-Tuning Hugging Face Model](https://colab.research.google.com/drive/1y8Xp9mYtZ2uNYtVsxlVni22E-DXLKFiA?usp=sharing)
 
 
 ## Week 6 (Thursday, December 1st)
