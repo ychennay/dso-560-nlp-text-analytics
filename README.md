@@ -17,14 +17,23 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 * [Training Your Own Word Embeddings Using Keras](https://youtu.be/Wp-Wb456kSU)
 * [RNNs and LSTMs Deep Dive](https://youtu.be/Bt9zoPMzZZQ)
 
+## Optional Lecture (Saturday December 3rd)
+
+### Links
+- [Blog Article About Spark Streaming ML for Push Notification/Recommendations](https://headspace.medium.com/infrastructure-design-for-real-time-machine-learning-inference-e140793d6741)
+### Notebooks
+- [Databricks Spark Simple Word Count Example](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/5232729486082968/1540886924384845/4388619205012290/latest.html)
+- [Deep Learning to Train Word Embeddings](https://colab.research.google.com/drive/18QPwKMJgulU0wpSKWmUJy9zsJfKRNe0I?usp=sharing)
+- [LSTMs and Self-Attention for NLP](https://colab.research.google.com/drive/1YJ7nFGIyjuyUaUHcTs6HrMXr2QzUXiDc?usp=sharing)
+- [Fine-Tuning Hugging Face Model](https://colab.research.google.com/drive/1IZ1StimGzh1saoV3Xt9wldPE8lX-bbtX?usp=sharing)
+
+
 ## Week 6 (Thursday, December 1st)
 ### Notebooks
 - [In-Class Examples Google Sheet](https://docs.google.com/spreadsheets/d/1H0hRGyTIBzr-n6A0RSSuvUZ2EFgYoVTa1V12yIjIzCk/edit?usp=sharing)
 - [Other Uses Cases for Skipgram Model](https://docs.google.com/presentation/d/1P4uI0SANb_qvl1NXoC8ywS6S1FGg8DXNwwqETx8MbpA/edit?usp=sharing)
 - [word2vec Part I](https://colab.research.google.com/drive/1KEhGi7yVGYhIIS2UQ6GLDjSMOTZZWjcf?usp=sharing)
 - [word2vec Part II](https://colab.research.google.com/drive/1G4953SyzdwfXR19kZcsjwTy1efEvOrGb?usp=sharing)
-- [Deep Learning to Train Word Embeddings](https://colab.research.google.com/drive/18QPwKMJgulU0wpSKWmUJy9zsJfKRNe0I?usp=sharing)
-- [LSTMs and Self-Attention for NLP](https://colab.research.google.com/drive/1YJ7nFGIyjuyUaUHcTs6HrMXr2QzUXiDc?usp=sharing)
 - [Huggingface Demo](https://colab.research.google.com/drive/1kP0VUyBipYV4WXE4JeDGxlU9uZRl9EjY)
 - [BERT](https://docs.google.com/presentation/d/1CTYSvuGGCElHVcpA9hvGlPgOT6p1XHeRyy71UaJkUnM/edit#slide=id.g104fc23bf1f_0_30)
 - [Example of Attention-Based Image Classification MNIST Handwritten Digits](https://github.com/ychennay/attention-facial-recognition/blob/master/MNIST%20Class%20Activation%20Heatmap%20Example.ipynb)
@@ -32,7 +41,6 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 - [Transformers for Natural Language Processing Github](https://github.com/PacktPublishing/Transformers-for-Natural-Language-Processing) - this is an excellent resource for code snippets that you can leverage in your own experiments and learnings
 - [Basic Self Attention Walkthrough (from Rothman book)](https://colab.research.google.com/drive/1VKcVEULBPYQ42uwMCcNzczmsGXoSGZt1?usp=sharing)
 - [Understanding Positional Encodings](https://colab.research.google.com/drive/1P1-SDViNp3NFVQ9Z6NtDIrSjBH7pVCTP?usp=sharing)
-- [Fine-Tuning Hugging Face Model](https://colab.research.google.com/drive/1IZ1StimGzh1saoV3Xt9wldPE8lX-bbtX?usp=sharing)   
 
 ## Week 5 (Thursday, November 17th)
 ### Notebooks
