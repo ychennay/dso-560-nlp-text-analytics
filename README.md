@@ -42,6 +42,8 @@ Note that this is a different Slack workspace than the auto-created workspaces b
 - [Transformers for Natural Language Processing Github](https://github.com/PacktPublishing/Transformers-for-Natural-Language-Processing) - this is an excellent resource for code snippets that you can leverage in your own experiments and learnings
 - [Basic Self Attention Walkthrough (from Rothman book)](https://colab.research.google.com/drive/1VKcVEULBPYQ42uwMCcNzczmsGXoSGZt1?usp=sharing)
 - [Understanding Positional Encodings](https://colab.research.google.com/drive/1P1-SDViNp3NFVQ9Z6NtDIrSjBH7pVCTP?usp=sharing)
+- [LSTMSs and Self-Attention for NLP](https://colab.research.google.com/drive/1YJ7nFGIyjuyUaUHcTs6HrMXr2QzUXiDc?usp=sharing)
+- [Using RNNs and LSTMs](https://colab.research.google.com/drive/1G6bxy1OlHPeVo6zAs8TxvN5du9PHhZQf)
 
 ## Week 5 (Thursday, November 17th)
 ### Notebooks
